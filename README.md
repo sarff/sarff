@@ -2,7 +2,7 @@ Sarff
 ============
 
 -------------------     ----------------------------
-MyAddress                        exehoua@gmail.com  
+E-mail                        exehoua@gmail.com  
 Telegram                               @sarffgufer 
 -------------------     ----------------------------
 
