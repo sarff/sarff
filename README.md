@@ -9,17 +9,21 @@ Telegram                               @sarffgufer
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2007 
+:   **Enhanced SQL course
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *I have experience from complex queries and temporary tables to building a database from scratch (from index to trigger)*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2019
+:   **Python разработка - с нуля до профессионала. Python 3
 
-    *Minor: Awesomeology*
+    *https://www.udemy.com/share/101GkA3@HqrszNozMEDBvksuEaFOCyk6Y9bUOzhtwxDN7wKHEp4OmGl7dJVmm8gEO0lAF6lY/*
+    
+2020
+:   **Learn Python Programming Masterclass
+
+
+    *https://www.udemy.com/share/101Wai3@uz_ioUpdiUCgjA6Vjglfy8-iiAboobHq-m55ICNsDAkQGyL18qPx5879krbG6FMn/*
 
 Experience
 ----------
