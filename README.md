@@ -3,7 +3,9 @@ Sarff
 
 -------------------     ----------------------------
 E-mail                        exehoua@gmail.com  
-Telegram                               @sarffgufer 
+Telegram                      @sarffgufer 
+stackoverflow                 https://ru.stackoverflow.com/users/4059/malus
+codewars                      https://www.codewars.com/users/sarff
 -------------------     ----------------------------
 
 Education
