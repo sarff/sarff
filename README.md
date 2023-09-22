@@ -2,8 +2,8 @@ Sarff
 ============
 
 -------------------     ----------------------------
-E-mail:                        exehoua@gmail.com  
-Telegram:                      @sarffgufer   
+#E-mail:                        exehoua@gmail.com  
+#Telegram:                      @sarffgufer   
 Stackoverflow:                 https://ru.stackoverflow.com/users/4059/malus  
 Codewars:                      https://www.codewars.com/users/sarff  
 Freelance:                     https://freelancehunt.com/freelancer/itdim.html
