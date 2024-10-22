@@ -53,6 +53,5 @@ Technical Experience
 * Human Languages:
 
      * English 
-     * Russian (native speaker)
      * Ukranian (native speaker)
 
