@@ -43,8 +43,8 @@ Experience
 ----------
 
    * Experience as a 1C programmer; Head of IT department;
-   * Experience in development and implementation of products from scratch (retail sales, CRM, CPA, Payment gateway etc.)
-   * Experience in interacting and implementing various API, payment systems
+   * Experience in development and implementation of products from scratch (retail sales, CRM, CPA, Payments gateway etc.)
+   * Experience in interacting and implementing various API, payments systems
 
 Technical Experience
 --------------------
