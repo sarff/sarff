@@ -61,8 +61,9 @@ Technical Experience
 ----------------------------------------
 
 ## 📆 Half-year activity calendar
-
-![isocalendar](metrics.plugin.isocalendar.svg)
+<p align="center">
+  <img src="metrics.plugin.isocalendar.svg" alt="isocalendar">
+</p>
 
 ## My badges Holopin
 [![Holopin badges](https://holopin.me/sarff)](https://holopin.io/sarff)
