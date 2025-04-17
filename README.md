@@ -58,6 +58,11 @@ Technical Experience
 
      * English 
      * Ukranian (native speaker)
+----------------------------------------
+
+## 📆 Half-year activity calendar
+
+![isocalendar](metrics.plugin.isocalendar.svg)
 
 ## My badges Holopin
 [![Holopin badges](https://holopin.me/sarff)](https://holopin.io/sarff)
