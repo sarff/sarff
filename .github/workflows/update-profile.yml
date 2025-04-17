@@ -1,0 +1,25 @@
+name: Half-year calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # щодня о 00:00 UTC
+  push:
+    branches: ["main"]
+  workflow_dispatch: # можна запускати вручну
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 🔑 Твій GitHub Token з правами на читання приватної активності
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 📄 Куди зберігати результат
+          filename: metrics.plugin.isocalendar.svg
+
+          # 🔌 Які плагіни увімкнені
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year  # або half-year, якщо хочеш лише 6 місяців
