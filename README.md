@@ -66,4 +66,4 @@ Technical Experience
 </p>
 
 ## My badges Holopin
-[![Holopin badges](https://holopin.me/sarff)](https://holopin.io/sarff)
+[![An image of @sarff's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarff)](https://holopin.io/@sarff)
