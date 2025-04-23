@@ -6,7 +6,7 @@ Sarff [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/Stand
 #Telegram:                      @sarffgufer    
 Codewars:                      https://www.codewars.com/users/sarff  
 Freelance:                     https://freelancehunt.com/freelancer/itdim.html<br/>
-Fiver:                         https://www.fiverr.com/dmytrofeo
+Fiver:                         [https://www.fiverr.com/dmytrofeo](https://www.fiverr.com/pe/Gvy2Kz)
 -------------------     ----------------------------
 
 Education
