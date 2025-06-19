@@ -38,6 +38,11 @@ Education
 
     https://prjctr.com/certificate/01HZ80MTZDJQVH6F2HWCMPRGWP?_gl=1*1m1vzt1*_gcl_au*MjU4MDI5NzAzLjE3MzUxMzE0ODQ.*_ga*MTM2OTczNjM0My4xNzM1MTMxNDg0*_ga_2MPTSBFM6Q*MTczNTEzMTQ4My4xLjEuMTczNTEzMTQ5NC40OS4wLjM5MTgwMDc0Mw
 
+2025
+:   **Golang for developers
+
+    https://lms.robotdreams.cc/certificate/8c72160272a083e18bee2d6b1a256a8b
+
 Experience
 ----------
 
