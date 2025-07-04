@@ -54,10 +54,12 @@ Experience
 
 Technical Experience
 --------------------
-  * See my Github
-  * Trading bot written in Python using (Docker, Celery, PostgreSQL, Flask, Binance API etc) https://t.me/AutoCryptoTrade_Binance
-  * GO development - Telegram bot https://t.me/kenomsl_bot
+  * See my Github 
+  * Logging package https://github.com/sarff/iSlogger
+  * GO development - Telegram bot (parser, bigdata analyse) https://t.me/kenomsl_bot
+  * GO development - Telegram bot (roles, crm api, sheduler etc) https://t.me/Maystry_bot
   * GO development - website https://itdim.com.ua/
+  * Trading bot written in Python using (Docker, Celery, PostgreSQL, Flask, Binance API etc) https://t.me/AutoCryptoTrade_Binance
 
 ----------------------------------------
 
