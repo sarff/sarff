@@ -56,6 +56,7 @@ Technical Experience
 --------------------
   * See my Github 
   * Logging package https://github.com/sarff/iSlogger
+  * Detecting email bounces (hard/soft) https://github.com/sarff/bounce-parser
   * GO development - Telegram bot (parser, bigdata analyse) https://t.me/kenomsl_bot
   * GO development - Telegram bot (roles, crm api, sheduler etc) https://t.me/Maystry_bot
   * GO development - website https://itdim.com.ua/
