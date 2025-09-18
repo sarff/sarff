@@ -3,8 +3,7 @@ Sarff [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/Stand
 
 -------------------     ----------------------------
 #E-mail:                        exehoua@gmail.com  
-#Telegram:                      [@sarffgufer](https://t.me/sarffgufer)    
-#Web:                           https://itdim.com.ua/   
+#Telegram:                      [@sarffgufer](https://t.me/sarffgufer)     
 Codewars:                      https://www.codewars.com/users/sarff  
 Freelance:                     https://freelancehunt.com/freelancer/itdim.html<br/>
 Fiver:                         [https://www.fiverr.com/dmytrofeo](https://www.fiverr.com/pe/Gvy2Kz)   
